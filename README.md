@@ -1,4 +1,4 @@
-## Hello, World! 💤ach Royer here...
+## Hello, World!
 
 - 👷‍♂️ I'm a problem solver who loves to build
 - 🖥 Currently working as a Frontend Engineer
@@ -9,7 +9,8 @@
   - 🏀 /r/nba
   - 🍱 Mise en place
   - ⏭ Skipping rope
-  
+
+
 ### Languages and Tools:
 
 <img align="left" alt="Javascript" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/javascript.svg" />
@@ -28,14 +29,16 @@
 <img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/git.svg" />
 
 <br />
+<br />
 
-### Catch me on the internet:
+### Catch 💤ach on the internet:
 
 [<img align="left" alt="Zach | Facebook" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Zach | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Zach | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Zach | Soundcloud" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg" />][soundcloud]
 
+<br />
 <br />
 <br />
 
