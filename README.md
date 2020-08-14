@@ -1,4 +1,4 @@
-## Hello, World!
+## Hey 👋, I'm Zach Royer
 
 - 👷‍♂️ I'm a problem solver who loves to build
 - 🖥 Currently working as a Frontend Engineer
@@ -31,7 +31,7 @@
 <br />
 <br />
 
-### Catch 💤ach on the internet:
+### Catch me on the internet:
 
 [<img align="left" alt="Zach | Facebook" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Zach | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
