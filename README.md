@@ -6,6 +6,11 @@
 - 🖥 Currently working as a Frontend Engineer
 - 🤘 University of Texas at Austin c/o 2013
 - 🌴 Recently moved to San Diego
+- 👨‍🎓 Currently learning about:
+  - 💎 Svelte
+  - 🦿 Accessibility
+  - ⛵️ Sailing
+  - ⚾️ Baseball
 - ❤️ Likes:
   - 💪 `display: flex`
   - 🏀 /r/nba
