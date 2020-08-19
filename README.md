@@ -3,7 +3,7 @@
 ### 💤ach: [<img align="right" alt="Zach | Soundcloud" height="24px" src="https://cdn.svgporn.com/logos/soundcloud.svg" />][soundcloud][<img align="right" alt="Zach | Facebook" height="24px" src="https://cdn.svgporn.com/logos/facebook.svg" />][facebook][<img align="right" alt="Zach | Twitter" height="24px" src="https://cdn.svgporn.com/logos/twitter.svg" />][twitter][<img align="right" alt="Zach | LinkedIn" height="24px" src="https://cdn.svgporn.com/logos/linkedin.svg" />][linkedin]
 
 - 👷‍♂️ Problem solver who loves to build products for humans
-- 🖥 Currently working as a Frontend Engineer at Shipwell
+- 🖥 Currently working as a Frontend Engineer at <a href="https://shipwell.com/careers/" target="_blank">Shipwell</a>
 - 🤘 University of Texas at Austin c/o 2013
 - 🌴 Recently moved to San Diego
 - ❤️ Likes:
@@ -61,3 +61,4 @@
 [twitter]: https://twitter.com/zzach2thefuture
 [linkedin]: https://www.linkedin.com/in/zroyer/
 [soundcloud]: https://www.soundcloud.com/laidback_zach
+[shipwell]: https://shipwell.com/careers/
