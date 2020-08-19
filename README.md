@@ -19,12 +19,12 @@
 
 
 
-### What I build with:
+### 🏌️‍♂️ What's in the bag:
 
 <p align="left">
 <kbd><img align="center" alt="Javascript" width="64px" height="64px" src="https://cdn.svgporn.com/logos/javascript.svg" /></kbd>
 <kbd><img align="center" alt="React" width="64px" height="64px" src="https://cdn.svgporn.com/logos/react.svg" /></kbd>
-<kbd><img align="center" alt="Svelte" width="64px" height="64px" src="https://cdn.svgporn.com/logos/svelte.svg" /></kbd>
+<kbd><img align="center" alt="Svelte" width="64px" height="64px" src="https://cdn.svgporn.com/logos/svelte-icon.svg" /></kbd>
 <kbd><img align="center" alt="Redux" width="64px" height="64px" src="https://cdn.svgporn.com/logos/redux.svg" /></kbd>
 <kbd><img align="center" alt="Jest" width="64px" height="64px" src="https://cdn.svgporn.com/logos/jest.svg" /></kbd>
 <kbd><img align="center" alt="Prettier" width="64px" height="64px" src="https://cdn.svgporn.com/logos/prettier.svg" /></kbd>
@@ -41,11 +41,13 @@
 <kbd><img align="center" alt="Heroku" width="64px" height="64px" src="https://cdn.svgporn.com/logos/heroku-icon.svg" /></kbd>
 <kbd><img align="center" alt="Jenkins" width="64px" height="64px" src="https://cdn.svgporn.com/logos/jenkins.svg" /></kbd>
 <kbd><img align="center" alt="Docker" width="64px" height="64px" src="https://cdn.svgporn.com/logos/docker.svg" /></kbd>
-<kbd><img align="center" alt="Git" width="64px" height="64px" src="https://cdn.svgporn.com/logos/git.svg" /></kbd>
 <kbd><img align="center" alt="NPM" width="64px" height="64px" src="https://cdn.svgporn.com/logos/npm.svg" /></kbd>
+<kbd><img align="center" alt="Git" width="64px" height="64px" src="https://cdn.svgporn.com/logos/git.svg" /></kbd>
 <kbd><img align="center" alt="Github" width="64px" height="64px" src="https://cdn.svgporn.com/logos/github-octocat.svg" /></kbd>
 <kbd><img align="center" alt="Sketch" width="64px" height="64px" src="https://cdn.svgporn.com/logos/sketch.svg" /></kbd>
 <kbd><img align="center" alt="Figma" width="64px" height="64px" src="https://cdn.svgporn.com/logos/figma.svg" /></kbd>
+<kbd><img align="center" alt="Zeplin" width="64px" height="64px" src="https://cdn.svgporn.com/logos/zeplin.svg" /></kbd>
+<kbd><img align="center" alt="Invision" width="64px" height="64px" src="https://cdn.svgporn.com/logos/invision.svg" /></kbd>
 <kbd><img align="center" alt="Slack" width="64px" height="64px" src="https://cdn.svgporn.com/logos/slack-icon.svg" /></kbd>
 <kbd><img align="center" alt="Jira" width="64px" height="64px" src="https://cdn.svgporn.com/logos/jira.svg" /></kbd>
 </p>
