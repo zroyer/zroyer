@@ -40,7 +40,7 @@
 <kbd><img align="center" alt="CircleCI" width="64px" height="64px" src="https://cdn.svgporn.com/logos/circleci.svg" /></kbd>
 <kbd><img align="center" alt="Heroku" width="64px" height="64px" src="https://cdn.svgporn.com/logos/heroku-icon.svg" /></kbd>
 <kbd><img align="center" alt="Jenkins" width="64px" height="64px" src="https://cdn.svgporn.com/logos/jenkins.svg" /></kbd>
-<kbd><img align="center" alt="Docker" width="64px" height="64px" src="https://cdn.svgporn.com/logos/docker.svg" /></kbd>
+<kbd><img align="center" alt="Docker" width="64px" height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg" /></kbd>
 <kbd><img align="center" alt="NPM" width="64px" height="64px" src="https://cdn.svgporn.com/logos/npm.svg" /></kbd>
 <kbd><img align="center" alt="Git" width="64px" height="64px" src="https://cdn.svgporn.com/logos/git.svg" /></kbd>
 <kbd><img align="center" alt="Github" width="64px" height="64px" src="https://cdn.svgporn.com/logos/github-octocat.svg" /></kbd>
