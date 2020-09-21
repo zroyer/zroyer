@@ -9,11 +9,11 @@
   - 🏀 /r/nba
   - 🍱 Mise en place
   - ⏭ Skipping rope
-- 👨‍🎓 Currently learning about:
+- 👨‍🎓 Currently interested in:
   - 💎 Svelte
   - 🦿 Accessibility
   - ⛵️ Sailing
-  - ⚾️ Baseball
+  - ⚾️ Padres baseball
 
 
 
