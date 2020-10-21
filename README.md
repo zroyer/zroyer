@@ -10,10 +10,9 @@
   - 🍱 Mise en place
   - ⏭ Skipping rope
 - 👨‍🎓 Currently interested in:
-  - 💎 Svelte
   - 🦿 Accessibility
-  - ⛵️ Sailing
-  - ⚾️ Padres baseball
+  - 🦞 Lobstering
+  - ⚾️ Sabermetrics
 
 
 
