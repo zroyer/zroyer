@@ -3,16 +3,16 @@
 - 👷‍♂️ Problem solver who loves to build products for humans
 - 🖥 Currently working as a Frontend Engineer at [Shipwell][shipwell]
 - 🤘 University of Texas at Austin c/o 2013
-- 🌴 Recently moved to San Diego
+- 🌴 Currently residing in San Diego
 - ❤️ Likes:
   - 💪 `display: flex`
   - 🏀 /r/nba
   - 🍱 Mise en place
   - ⏭ Skipping rope
 - 👨‍🎓 Currently interested in:
-  - 🦿 Accessibility
+  - 🔎 GraphQL
   - 🦞 Lobstering
-  - ⚾️ Sabermetrics
+  - ⛳️ Avoiding 3-putts...
 
 
 
