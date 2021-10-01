@@ -1,7 +1,7 @@
 ## 💤ach: [<img align="right" alt="Zach | Soundcloud" height="24px" src="https://cdn.svgporn.com/logos/soundcloud.svg" />][soundcloud][<img align="right" alt="Zach | Facebook" height="24px" src="https://cdn.svgporn.com/logos/facebook.svg" />][facebook][<img align="right" alt="Zach | Twitter" height="24px" src="https://cdn.svgporn.com/logos/twitter.svg" />][twitter][<img align="right" alt="Zach | LinkedIn" height="24px" src="https://cdn.svgporn.com/logos/linkedin.svg" />][linkedin]
 
 - 👷‍♂️ Problem solver who loves to build products for humans
-- 🖥 Currently working as a Frontend Engineer at [Shipwell][shipwell]
+- 🖥 Currently working as a Senior Frontend Engineer at [Shipwell][shipwell]
 - 🤘 University of Texas at Austin c/o 2013
 - 🌴 Lives in San Diego
 - ❤️ Likes:
@@ -10,7 +10,7 @@
   - 🍱 Mise en place
   - 🏋️‍♂️ Deadlifts
 - 🆓 Free time spent:
-  - 🔎 Learning GraphQL
+  - 🚙 Working on my 4Runner
   - 🦞 Lobstering
   - ⛳️ Avoiding 3-putts...
 
