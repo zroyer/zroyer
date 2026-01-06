@@ -9,9 +9,9 @@
   - 🏀 /r/nba
   - 🍫 Power Crunch bars
 - 🆓 Free time spent:
-  - ⛳️ Working on my swing
-  - 🏋️‍♂️ Deadlifting
-  - ⛵️ Sailing
+  - ⛳️ On a golf course
+  - 🤿 In the water
+  - 🏋️‍♂️ At the gym
 
 
 
@@ -50,9 +50,6 @@
 </p>
 
 <br/>
-
-
-<img align="left" alt="Zach's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zroyer&show_icons=true&hide_border=false&count_private=true&theme=buefy" />
 
 [facebook]: https://www.facebook.com/zzzzzach
 [twitter]: https://twitter.com/zzach2thefuture
